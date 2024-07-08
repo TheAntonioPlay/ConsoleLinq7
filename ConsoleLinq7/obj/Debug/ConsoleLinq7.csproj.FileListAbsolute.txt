@@ -1,0 +1,8 @@
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\bin\Debug\ConsoleLinq7.exe.config
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\bin\Debug\ConsoleLinq7.exe
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\bin\Debug\ConsoleLinq7.pdb
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\obj\Debug\ConsoleLinq7.csproj.AssemblyReference.cache
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\obj\Debug\ConsoleLinq7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\obj\Debug\ConsoleLinq7.csproj.CoreCompileInputs.cache
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\obj\Debug\ConsoleLinq7.exe
+C:\Users\Илья Иванов\source\repos\ConsoleLinq7\ConsoleLinq7\obj\Debug\ConsoleLinq7.pdb
